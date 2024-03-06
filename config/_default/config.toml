@@ -13,6 +13,8 @@ DefaultContentLanguage = "en"
 author = "authors"
 book = "books"
 year = "years"
+stores = "stores"
+things = "things"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
