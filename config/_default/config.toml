@@ -1,9 +1,9 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://orionreads.elenzil.com/"
+baseurl = "elenzil.github.io/orionreads"
 title = "Orion Reads"
 copyright = ""
-# canonifyurls = true
+canonifyURLs = true
 paginate = 37
 theme = "hugo-clarity"
 
@@ -18,3 +18,4 @@ things = "things"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
