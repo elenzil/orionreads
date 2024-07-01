@@ -1,7 +1,7 @@
 +++
 author = "Orion"
 title = "Takeover - Hitler's final rise to power"
-date = "2024-06-30"
+date = "2024-06-26"
 description = "More history of Nazi Germany"
 books = [
     "Takeover"
@@ -22,7 +22,7 @@ things = [
 +++
 
 ## Takeover - Hitler's Final Rise to Power
-### Timothy Ryback
+### Timothy Ryback, 2024
 <img src="/images/takeover.png" style="padding:10px; width:300px; float:right;">
 Another history-of-Nazi-Germany book, <b>Takeover</b> details the last year or so but especially the final few months leading up to Hitler being appointed the Chancellor of Germany.  The fundamental question on the table, staring at us all, is how a constitutional democracy like Weimar Germany reach the point where a man and party who's stated goal was to tear down Democracy was legally put in power ?  I'd always sort of assumed there was some skullduggery involved, an assassination, a poisoning, a coup, etc.  But that is not the case.  Hitler and his party took over the government almost entirely without extralegal activity.
 

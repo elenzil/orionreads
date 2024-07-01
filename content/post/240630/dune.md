@@ -1,7 +1,7 @@
 +++
 author = "Orion"
 title = "Dune & Dune Messiah"
-date = "2024-06-30"
+date = "2024-06-25"
 description = "revisiting Dune"
 books = [
     "Dune",
@@ -22,7 +22,7 @@ things = [
 +++
 
 ## Dune & Dune Messiah
-### Frank Herbert
+### Frank Herbert, 1965
 <img src="/images/dune.png" style="padding:10px; width:300px; float:right;">
 Some neighbors went for a sort of men's-afternoon-out to see the new Dune 2 movie, which got me thinking, so I went ahead and watched the recent Dune 1 movie, and then #2 as well.  As action films go they're on the good side of the spectrum thanks to a cerebral bent, but at the end of the day they're still just action films.  But I liked them enough to figure that I'll probably see #3 if there is one.  So i decided to re-read the books.  I read them I think back in 9th grade, in the late 1980s.  I figured I'd read the first three: <b>Dune</b>, <b>Dune Messiah</b>, <b>Children of Dune</b> and possibly go on to <b>ChapterHouse Dune</b> because I remembered that's where my stamina petered out so many years ago.  
 
