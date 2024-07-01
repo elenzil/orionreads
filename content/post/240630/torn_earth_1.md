@@ -36,7 +36,7 @@ This one is worth reading.
 
 I'm not without gripes tho!
 
-* SF & Fantasy Authors: please, I believe you're hip and cool and sex-and-gender-positive ! I totally believe it.  It's fine to just allude to that stuff without putting in little blue vignettes all over the place.  If I want deep treatments of gender stuff, I'll turn to proper literature and if I want smut I know where to find that too.
+* SF & Fantasy Authors: please, I believe you're sex-positive. I totally believe it.  For me, it's fine to just allude to that stuff without putting in little blue vignettes all over the place.  If I want deep treatments of sexuality, I look for that in literature that's not also grappling with speculative fiction, and if I want smut I know where to find that too.
 
 * Killing & Mass Killing: I'm definitely getting more sensitive to this as I age, but for me the illusion of living, breathing characters is broken when say they cause the death of an entire city or two and then turn around and go on with their lives with a wry expression.  It's not just Jemison, it's lots of authors.  I felt this about moderately-recent books "The Traitor Baru Cormorant", and "Ready Player One".  I mean, come on, that's not how people are.
 
