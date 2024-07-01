@@ -1,6 +1,6 @@
 +++
 author = "Orion"
-title = "Takeover - Hitler's final rise to power"
+title = "Takeover - Hitler's Final Rise to Power"
 date = "2024-06-26"
 description = "More history of Nazi Germany"
 books = [

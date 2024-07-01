@@ -17,7 +17,8 @@ stores = [
 
 things = [
     "science-fiction",
-    "sf"
+    "sf",
+    "hugo award"
 ]
 +++
 
