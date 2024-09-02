@@ -5,7 +5,7 @@ date = "2024-06-30"
 description = "Solid Fantasy"
 books = [
     "The Fifth Season",
-    "Torn Earth Trilogy",
+    "Broken Earth Trilogy",
     "The Three Body Problem",
     "The Kiss of the Spider Woman",
     "The Traitor Baru Cormorant",
@@ -41,6 +41,10 @@ I'm not without gripes tho!
 * Killing & Mass Killing: I'm definitely getting more sensitive to this as I age, but for me the illusion of living, breathing characters is broken when say they cause the death of an entire city or two and then turn around and go on with their lives with a wry expression.  It's not just Jemison, it's lots of authors.  I felt this about moderately-recent books "The Traitor Baru Cormorant", and "Ready Player One".  I mean, come on, that's not how people are.
 
 Okay, those aside, this was a super strong Book One. I'm also looking forward to Books Two and Three because like the opening volume they also won the Hugo award, which is very impressive.
+
+<!------ *Update* see [../240902/broken_earth_2.md] ----->
+*Update* see also [The Obelisk Gate]({{< relref "/post/240902/broken_earth_2.md" >}})
+
 
 
 
